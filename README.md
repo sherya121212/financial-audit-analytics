@@ -109,7 +109,7 @@ Run all cells in order. The dashboard image and Excel report will be saved autom
 
 ## Background & Motivation
 
-During my internship at BSR & Co. LLP (KPMG-affiliated), I manually performed financial data cleaning and reconciliation using Alteryx — improving dataset accuracy across 10,000+ records. This project recreates and extends that workflow in Python, demonstrating how the same audit analytics process can be automated and scaled.
+During my internship at BSR & Co. LLP (KPMG-affiliated), I manually performed financial data cleaning and reconciliation using Alteryx -improving dataset accuracy across 10,000+ records. This project recreates and extends that workflow in Python, demonstrating how the same audit analytics process can be automated and scaled.
 
 ---
 
